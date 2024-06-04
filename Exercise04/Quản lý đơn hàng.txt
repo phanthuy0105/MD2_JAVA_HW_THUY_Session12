@@ -1,0 +1,22 @@
+Xây dựng sơ đồ quan hệ thực thể ER cho bài toán quản lý nhân viên và phòng ban:
+- Quản lý được người dùng (user) với các thông tin:
+	+ Mã khách hàng
+	+ Tên khách hàng
+	+ Địa chỉ
+	+ Số điện thoại
+	+ Năm sinh
+	+ Trạng thái khách hàng
+- Quản lý được sản phẩm
+	+ Mã sản phẩm
+	+ Tên sản phẩm
+	+ Giá tiền
+	+ Số lượng
+	+ Trạng thái sản phẩm
+- Quản lý đơn hàng của người dùng
+	+ Mã đơn hàng
+	+ Ngày tạo
+	+ Ngày đặt hàng
+	+ Ngày giao hàng dự kiến
+	+ Tổng giá tiền đơn hàng
+	+ Người nhận
+	+ Trạng thái đơn hàng

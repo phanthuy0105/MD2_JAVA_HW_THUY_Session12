@@ -1,0 +1,16 @@
+Xây dựng sơ đồ quan hệ thực thể ER cho bài toán quản lý nhân viên và phòng ban:
+- Quản lý được nhân viên với các thông tin:
+	+ Mã nhân viên
+	+ Tên giảng viên
+	+ Giới tính
+	+ Địa chỉ
+	+ Số điện thoại
+	+ Tuổi
+	+ Lương nhân viên
+	+ Mã phòng ban
+	+ Trạng thái nhân viên
+- Quản lý được các phòng ban
+	+ Mã phòng ban
+	+ Tên phòng ban
+	+ Trạng thái phòng ban
+	

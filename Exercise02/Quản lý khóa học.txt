@@ -1,0 +1,12 @@
+Xây dựng sơ đồ quan hệ thực thể ER cho bài toán quản lý nhân viên và phòng ban:
+- Quản lý được khóa học (Bảng Course) với các thông tin:
+	+ Mã khóa học
+	+ Tên khóa học
+	+ Số lượng thời gian học
+	+ Trạng thái môn học
+- Quản lý được môn học (Bảng Subject)
+	+ Mã môn học
+	+ Tên môn học
+	+ Tên giảng viên dạy học
+	+ Trạng thái môn học
+	
